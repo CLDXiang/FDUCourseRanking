@@ -5,7 +5,7 @@
 
 一个基于Requests库的小爬虫，可以爬取当前选课系统中的课程信息（缺省设置仅包括思政、七模及军理），并对爬取到的选课量进行简单处理得到课程受欢迎程度排行。
 
-![Res Example](https://github.com/CLDXiang/FDUCourseRanking/example/res_example.jpg)
+![Res Example](https://github.com/CLDXiang/FDUCourseRanking/blob/master/example/res_example.jpg)
 
 
 ## 依赖
