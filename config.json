@@ -1,0 +1,164 @@
+{
+  "username": ,
+  "password": "",
+  "searchList": [
+    {
+      "lessonNo": "",
+      "courseCode": "ENGL1100",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "PTSS1100",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "HIST1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "PHIL1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "POLI1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "ECON1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "JOUR1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "LAWS1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "COMP1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "INFO1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "MACR1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "MECH1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "PHYS1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "SOFT1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "TCPH1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "BIOL1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "ENVI1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "PHAR1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "PHPM1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "PTSS1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "FINE1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "MUSE1190",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "FINE1100",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "NDEC1100",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "FORE1100",
+      "courseName": "",
+      "searchType": 0
+    },
+    {
+      "lessonNo": "",
+      "courseCode": "CHIN1190",
+      "courseName": "",
+      "searchType": 0
+    }
+  ],
+  "passKeyword": [
+  ]
+}
