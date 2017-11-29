@@ -37,8 +37,7 @@ cd FDUCourseRanking
 ```json
 {
   "username": 16302333333,
-  "password": "LongMayTheSunshine",
-  ...
+  "password": "LongMayTheSunshine"
 }
 ```
 
