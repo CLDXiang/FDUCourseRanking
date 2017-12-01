@@ -1,4 +1,4 @@
-复旦大学选课辅助 - 受欢迎程度排行
+复旦大学选课 - 课程受欢迎程度排行
 ==========================
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
