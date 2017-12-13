@@ -80,7 +80,7 @@ def getLessonsDict():
             'Accept-Encoding': 'gzip, deflate',
             'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8'
         },
-        data={'electionProfile.id': '705'}
+        data={'electionProfile.id': '724'}
     )
     print('进入选课界面成功')
 
@@ -96,7 +96,7 @@ def getLessonsDict():
         # 请求课程信息
         sleep(5)
         res = session_requests.post(
-            url='http://xk.fudan.edu.cn/xk/stdElectCourse!queryLesson.action?profileId=705',
+            url='http://xk.fudan.edu.cn/xk/stdElectCourse!queryLesson.action?profileId=724',
             headers=
             {'Host': 'xk.fudan.edu.cn',
              'Connection': 'keep-alive',
